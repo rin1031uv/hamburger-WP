@@ -2,11 +2,10 @@
 <?php get_header(); ?>
 
 
-
       <main>
     <!--img部分-->
         <div class="p-top__image-container">
-          <img class="p-top__image" src= "<?php echo get_stylesheet_directory_uri(); ?>/images/mainvisual.jpg" alt="hero画像">
+          <img class="p-top__image" src="/images/mainvisual.jpg" alt="hero画像>
           <h2 class="p-top__title">ダミーサイト</h2>
         </div>
     <!--card-->
